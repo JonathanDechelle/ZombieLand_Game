@@ -1,0 +1,289 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>NinjaNothing.png</Source>
+      <Name>NinjaNothing</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joyvax\Desktop\Zombie Land Game(2013)\Perso Speciaux\Perso Speciaux\Perso Speciaux\Perso Speciaux\bin\x86\Debug\Content\NinjaNothing.xnb</Output>
+      <Time>2013-06-28T07:40:59.7527076-05:00</Time>
+    </Item>
+    <Item>
+      <Source>NinjaRunning.png</Source>
+      <Name>NinjaRunning</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joyvax\Desktop\Zombie Land Game(2013)\Perso Speciaux\Perso Speciaux\Perso Speciaux\Perso Speciaux\bin\x86\Debug\Content\NinjaRunning.xnb</Output>
+      <Time>2013-06-28T07:40:59.7427191-05:00</Time>
+    </Item>
+    <Item>
+      <Source>NinjaJump.png</Source>
+      <Name>NinjaJump</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joyvax\Desktop\Zombie Land Game(2013)\Perso Speciaux\Perso Speciaux\Perso Speciaux\Perso Speciaux\bin\x86\Debug\Content\NinjaJump.xnb</Output>
+      <Time>2013-06-28T08:30:28.2653127-05:00</Time>
+    </Item>
+    <Item>
+      <Source>NinjaJumpAttack.png</Source>
+      <Name>NinjaJumpAttack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joyvax\Desktop\Zombie Land Game(2013)\Perso Speciaux\Perso Speciaux\Perso Speciaux\Perso Speciaux\bin\x86\Debug\Content\NinjaJumpAttack.xnb</Output>
+      <Time>2013-06-28T19:27:07.0683907-05:00</Time>
+    </Item>
+    <Item>
+      <Source>NinjaDegaine.png</Source>
+      <Name>NinjaDegaine</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joyvax\Desktop\Zombie Land Game(2013)\Perso Speciaux\Perso Speciaux\Perso Speciaux\Perso Speciaux\bin\x86\Debug\Content\NinjaDegaine.xnb</Output>
+      <Time>2013-06-28T10:42:43.9226826-05:00</Time>
+    </Item>
+    <Item>
+      <Source>NinjaRunningSword.png</Source>
+      <Name>NinjaRunningSword</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joyvax\Desktop\Zombie Land Game(2013)\Perso Speciaux\Perso Speciaux\Perso Speciaux\Perso Speciaux\bin\x86\Debug\Content\NinjaRunningSword.xnb</Output>
+      <Time>2013-06-28T10:05:12.5472155-05:00</Time>
+    </Item>
+    <Item>
+      <Source>NinjaNothingSword.png</Source>
+      <Name>NinjaNothingSword</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joyvax\Desktop\Zombie Land Game(2013)\Perso Speciaux\Perso Speciaux\Perso Speciaux\Perso Speciaux\bin\x86\Debug\Content\NinjaNothingSword.xnb</Output>
+      <Time>2013-06-28T10:33:31.3798085-05:00</Time>
+    </Item>
+    <Item>
+      <Source>NinjaAttack1.png</Source>
+      <Name>NinjaAttack1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joyvax\Desktop\Zombie Land Game(2013)\Perso Speciaux\Perso Speciaux\Perso Speciaux\Perso Speciaux\bin\x86\Debug\Content\NinjaAttack1.xnb</Output>
+      <Time>2013-06-28T10:50:30.1282636-05:00</Time>
+    </Item>
+    <Item>
+      <Source>NinjaAttack2.png</Source>
+      <Name>NinjaAttack2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joyvax\Desktop\Zombie Land Game(2013)\Perso Speciaux\Perso Speciaux\Perso Speciaux\Perso Speciaux\bin\x86\Debug\Content\NinjaAttack2.xnb</Output>
+      <Time>2013-06-28T19:36:34.3109206-05:00</Time>
+    </Item>
+    <Item>
+      <Source>NinjaAttack3.png</Source>
+      <Name>NinjaAttack3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joyvax\Desktop\Zombie Land Game(2013)\Perso Speciaux\Perso Speciaux\Perso Speciaux\Perso Speciaux\bin\x86\Debug\Content\NinjaAttack3.xnb</Output>
+      <Time>2013-06-28T20:13:10.7718639-05:00</Time>
+    </Item>
+    <Item>
+      <Source>HealtBar.jpg</Source>
+      <Name>HealtBar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joyvax\Desktop\Zombie Land Game(2013)\Perso Speciaux\Perso Speciaux\Perso Speciaux\Perso Speciaux\bin\x86\Debug\Content\HealtBar.xnb</Output>
+      <Time>2013-07-01T17:28:01.2513619-05:00</Time>
+    </Item>
+    <Item>
+      <Source>ImageNinjaPerso.png</Source>
+      <Name>ImageNinjaPerso</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joyvax\Desktop\Zombie Land Game(2013)\Perso Speciaux\Perso Speciaux\Perso Speciaux\Perso Speciaux\bin\x86\Debug\Content\ImageNinjaPerso.xnb</Output>
+      <Time>2013-07-02T17:40:28.2270026-05:00</Time>
+    </Item>
+    <Item>
+      <Source>KirbyNothing.png</Source>
+      <Name>KirbyNothing</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joyvax\Desktop\Zombie Land Game(2013)\Perso Speciaux\Perso Speciaux\Perso Speciaux\Perso Speciaux\bin\x86\Debug\Content\KirbyNothing.xnb</Output>
+      <Time>2013-07-20T18:03:53.5917923-05:00</Time>
+    </Item>
+    <Item>
+      <Source>KirbyRunning.png</Source>
+      <Name>KirbyRunning</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joyvax\Desktop\Zombie Land Game(2013)\Perso Speciaux\Perso Speciaux\Perso Speciaux\Perso Speciaux\bin\x86\Debug\Content\KirbyRunning.xnb</Output>
+      <Time>2013-07-20T18:09:23.8519505-05:00</Time>
+    </Item>
+    <Item>
+      <Source>KirbyJumping.png</Source>
+      <Name>KirbyJumping</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joyvax\Desktop\Zombie Land Game(2013)\Perso Speciaux\Perso Speciaux\Perso Speciaux\Perso Speciaux\bin\x86\Debug\Content\KirbyJumping.xnb</Output>
+      <Time>2013-07-20T18:34:23.2026432-05:00</Time>
+    </Item>
+    <Item>
+      <Source>KirbyAspiration.png</Source>
+      <Name>KirbyAspiration</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joyvax\Desktop\Zombie Land Game(2013)\Perso Speciaux\Perso Speciaux\Perso Speciaux\Perso Speciaux\bin\x86\Debug\Content\KirbyAspiration.xnb</Output>
+      <Time>2013-07-21T15:39:28.0321372-05:00</Time>
+    </Item>
+    <Item>
+      <Source>KirbyAspirationContinue.png</Source>
+      <Name>KirbyAspirationContinue</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joyvax\Desktop\Zombie Land Game(2013)\Perso Speciaux\Perso Speciaux\Perso Speciaux\Perso Speciaux\bin\x86\Debug\Content\KirbyAspirationContinue.xnb</Output>
+      <Time>2013-07-21T21:36:34.0401264-05:00</Time>
+    </Item>
+    <Item>
+      <Source>KirbyNothingA.png</Source>
+      <Name>KirbyNothingA</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joyvax\Desktop\Zombie Land Game(2013)\Perso Speciaux\Perso Speciaux\Perso Speciaux\Perso Speciaux\bin\x86\Debug\Content\KirbyNothingA.xnb</Output>
+      <Time>2013-07-22T09:30:01.1783447-05:00</Time>
+    </Item>
+    <Item>
+      <Source>KirbyRunningA.png</Source>
+      <Name>KirbyRunningA</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joyvax\Desktop\Zombie Land Game(2013)\Perso Speciaux\Perso Speciaux\Perso Speciaux\Perso Speciaux\bin\x86\Debug\Content\KirbyRunningA.xnb</Output>
+      <Time>2013-07-22T09:42:28.1510741-05:00</Time>
+    </Item>
+    <Item>
+      <Source>KirbyJumpingA.png</Source>
+      <Name>KirbyJumpingA</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joyvax\Desktop\Zombie Land Game(2013)\Perso Speciaux\Perso Speciaux\Perso Speciaux\Perso Speciaux\bin\x86\Debug\Content\KirbyJumpingA.xnb</Output>
+      <Time>2013-07-22T11:54:22.8817648-05:00</Time>
+    </Item>
+    <Item>
+      <Source>KirbyLaunching.png</Source>
+      <Name>KirbyLaunching</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joyvax\Desktop\Zombie Land Game(2013)\Perso Speciaux\Perso Speciaux\Perso Speciaux\Perso Speciaux\bin\x86\Debug\Content\KirbyLaunching.xnb</Output>
+      <Time>2013-07-22T12:16:39.9659915-05:00</Time>
+    </Item>
+    <Item>
+      <Source>AirLunch.png</Source>
+      <Name>AirLunch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joyvax\Desktop\Zombie Land Game(2013)\Perso Speciaux\Perso Speciaux\Perso Speciaux\Perso Speciaux\bin\x86\Debug\Content\AirLunch.xnb</Output>
+      <Time>2013-07-22T14:54:21.5960731-05:00</Time>
+    </Item>
+    <Item>
+      <Source>KirbyNothingT.png</Source>
+      <Name>KirbyNothingT</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joyvax\Desktop\Zombie Land Game(2013)\Perso Speciaux\Perso Speciaux\Perso Speciaux\Perso Speciaux\bin\x86\Debug\Content\KirbyNothingT.xnb</Output>
+      <Time>2013-07-22T21:38:16.3220183-05:00</Time>
+    </Item>
+    <Item>
+      <Source>KirbyWalkingT.png</Source>
+      <Name>KirbyWalkingT</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joyvax\Desktop\Zombie Land Game(2013)\Perso Speciaux\Perso Speciaux\Perso Speciaux\Perso Speciaux\bin\x86\Debug\Content\KirbyWalkingT.xnb</Output>
+      <Time>2013-07-23T11:48:37.3163516-05:00</Time>
+    </Item>
+    <Item>
+      <Source>KirbyTransforming.png</Source>
+      <Name>KirbyTransforming</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joyvax\Desktop\Zombie Land Game(2013)\Perso Speciaux\Perso Speciaux\Perso Speciaux\Perso Speciaux\bin\x86\Debug\Content\KirbyTransforming.xnb</Output>
+      <Time>2013-07-23T12:04:33.6711754-05:00</Time>
+    </Item>
+    <Item>
+      <Source>KirbyAttackT.png</Source>
+      <Name>KirbyAttackT</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joyvax\Desktop\Zombie Land Game(2013)\Perso Speciaux\Perso Speciaux\Perso Speciaux\Perso Speciaux\bin\x86\Debug\Content\KirbyAttackT.xnb</Output>
+      <Time>2013-07-23T12:42:54.5993556-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SwordSwing.wav</Source>
+      <Name>SwordSwing</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Joyvax\Desktop\Zombie Land Game(2013)\Perso Speciaux\Perso Speciaux\Perso Speciaux\Perso Speciaux\bin\x86\Debug\Content\SwordSwing.xnb</Output>
+      <Time>2013-06-30T20:03:01.506758-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Joyvax\Desktop\Zombie Land Game(2013)\Perso Speciaux\Perso Speciaux\Perso Speciaux\Perso SpeciauxContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Joyvax\Desktop\Zombie Land Game(2013)\Perso Speciaux\Perso Speciaux\Perso Speciaux\Perso Speciaux\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Joyvax\Desktop\Zombie Land Game(2013)\Perso Speciaux\Perso Speciaux\Perso Speciaux\Perso SpeciauxContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Joyvax\Desktop\Zombie Land Game(2013)\Perso Speciaux\Perso Speciaux\Perso Speciaux\Perso Speciaux\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-10-02T19:32:06.7426709-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

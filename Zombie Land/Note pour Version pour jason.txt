@@ -1,0 +1,8 @@
+
+1) Changer Dans les propriété de zombie land(dans projet) le game profile a REACH
+
+2) Dans la classe game en dessous de la creation de graphics rajouter
+		graphics.graphicsProfile
+
+3) Dans la classe du niveau changer la maniere de dessiner par SamplerState
+	PointClamp(Tant que ca finit par clamp) 

@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZombieLand", "ZombieLand\ZombieLand\ZombieLand.csproj", "{07735C6C-9C46-474F-A8B6-98142303D338}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZombieLandContent", "ZombieLand\ZombieLandContent\ZombieLandContent.contentproj", "{C68DD57D-1071-4C35-A115-C2BF1FE3909A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyGameLibrairy", "..\..\GameLibrairie\MyGameLibrairy\MyGameLibrairy\MyGameLibrairy.csproj", "{871ED0E8-7B95-4D5A-BC24-F7409C91026E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perso Speciaux", "..\..\Perso Speciaux\Perso Speciaux\Perso Speciaux\Perso Speciaux\Perso Speciaux.csproj", "{5B6F943C-BEFE-403C-A498-7E3BCDD67BEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perso SpeciauxContent", "..\..\Perso Speciaux\Perso Speciaux\Perso Speciaux\Perso SpeciauxContent\Perso SpeciauxContent.contentproj", "{836E765F-0C21-4DFB-B435-DD53F6C24184}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07735C6C-9C46-474F-A8B6-98142303D338}.Debug|x86.ActiveCfg = Debug|x86
+		{07735C6C-9C46-474F-A8B6-98142303D338}.Debug|x86.Build.0 = Debug|x86
+		{07735C6C-9C46-474F-A8B6-98142303D338}.Release|x86.ActiveCfg = Release|x86
+		{07735C6C-9C46-474F-A8B6-98142303D338}.Release|x86.Build.0 = Release|x86
+		{C68DD57D-1071-4C35-A115-C2BF1FE3909A}.Debug|x86.ActiveCfg = Debug|x86
+		{C68DD57D-1071-4C35-A115-C2BF1FE3909A}.Release|x86.ActiveCfg = Release|x86
+		{871ED0E8-7B95-4D5A-BC24-F7409C91026E}.Debug|x86.ActiveCfg = Debug|x86
+		{871ED0E8-7B95-4D5A-BC24-F7409C91026E}.Debug|x86.Build.0 = Debug|x86
+		{871ED0E8-7B95-4D5A-BC24-F7409C91026E}.Release|x86.ActiveCfg = Release|x86
+		{871ED0E8-7B95-4D5A-BC24-F7409C91026E}.Release|x86.Build.0 = Release|x86
+		{5B6F943C-BEFE-403C-A498-7E3BCDD67BEF}.Debug|x86.ActiveCfg = Debug|x86
+		{5B6F943C-BEFE-403C-A498-7E3BCDD67BEF}.Debug|x86.Build.0 = Debug|x86
+		{5B6F943C-BEFE-403C-A498-7E3BCDD67BEF}.Release|x86.ActiveCfg = Release|x86
+		{5B6F943C-BEFE-403C-A498-7E3BCDD67BEF}.Release|x86.Build.0 = Release|x86
+		{836E765F-0C21-4DFB-B435-DD53F6C24184}.Debug|x86.ActiveCfg = Debug|x86
+		{836E765F-0C21-4DFB-B435-DD53F6C24184}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
